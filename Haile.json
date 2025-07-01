@@ -1,0 +1,10 @@
+{
+    "preference": "loud",
+    "favorites": {
+        "first": "brazilian",
+        "second": "lego",
+        "third": "nostalgia"
+    },
+    "snooze": "15",
+    "behavioral": "True"
+}
