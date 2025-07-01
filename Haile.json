@@ -1,27 +1,27 @@
 {
-    "preference": "loud",
-    "favorites": [
-        "first": {
-            "id": "7",
-            "name": "brazilian"
-        },
-        "second": {
-            "id": "5",
-            "name": "lego"
-        },
-        "third": {
-            "id": "10",
-            "name": "nostalgia"
-        },
-        "fourth": {
-            "id": "3",
-            "name": "classic"
-        },
-        "fifth": {
-            "id": "6",
-            "name": "digital"
-        }
-    ],
-    "snooze": "15",
-    "behavioral": "True"
+  "preference": "loud",
+  "favorites": [
+    {
+      "id": "7",
+      "name": "brazilian"
+    },
+    {
+      "id": "5",
+      "name": "lego"
+    },
+    {
+      "id": "10",
+      "name": "nostalgia"
+    },
+    {
+      "id": "3",
+      "name": "classic"
+    },
+    {
+      "id": "6",
+      "name": "digital"
+    }
+  ],
+  "snooze": "15",
+  "behavioral": "True"
 }
