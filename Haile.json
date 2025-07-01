@@ -1,6 +1,6 @@
 {
     "preference": "loud",
-    "favorites": {
+    "favorites": [
         "first": {
             "id": "7",
             "name": "brazilian"
@@ -21,7 +21,7 @@
             "id": "6",
             "name": "digital"
         }
-    },
+    ],
     "snooze": "15",
     "behavioral": "True"
 }
