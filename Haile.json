@@ -3,7 +3,9 @@
     "favorites": {
         "first": "brazilian",
         "second": "lego",
-        "third": "nostalgia"
+        "third": "nostalgia",
+        "fourth": "classic",
+        "fifth": "digital"
     },
     "snooze": "15",
     "behavioral": "True"
