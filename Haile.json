@@ -50,7 +50,7 @@
       "description": "soccer with addis & dad & peter",
       "behavioral": true,
       "delay": false,
-      "delay-amount": 10,
+      "delayamount": 10,
       "type": "wake-up"
     },
     {
@@ -71,7 +71,7 @@
       "description": "school prep",
       "behavioral": false,
       "delay": true,
-      "delay-amount": 5,
+      "delayamount": 5,
       "type": "wake-up"
     },
     {
@@ -92,7 +92,7 @@
       "description": "homework reminder",
       "behavioral": false,
       "delay": false,
-      "delay-amount": 0,
+      "delayamount": 0,
       "type": "reminder"
     },
     {
@@ -113,7 +113,7 @@
       "description": "wind down",
       "behavioral": true,
       "delay": true,
-      "delay-amount": 10,
+      "delayamount": 10,
       "type": "routine"
     },
     {
@@ -134,7 +134,7 @@
       "description": "gym session",
       "behavioral": false,
       "delay": false,
-      "delay-amount": 0,
+      "delayamount": 0,
       "type": "workout"
     }
   ],
