@@ -33,5 +33,5 @@
   ],
   "preference": "loud",
   "snooze": "15",
-  "behavioral": "True"
+  "behavioral": true
 }
