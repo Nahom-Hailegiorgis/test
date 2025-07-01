@@ -51,7 +51,8 @@
       "behavioral": true,
       "delay": false,
       "delayamount": 10,
-      "type": "wake-up"
+      "type": "wake-up",
+      "id": 1
     },
     {
       "time": "7:30",
@@ -72,7 +73,8 @@
       "behavioral": false,
       "delay": true,
       "delayamount": 5,
-      "type": "wake-up"
+      "type": "wake-up",
+      "id": 2
     },
     {
       "time": "3:45",
@@ -93,7 +95,8 @@
       "behavioral": false,
       "delay": false,
       "delayamount": 0,
-      "type": "reminder"
+      "type": "reminder",
+      "id": 3
     },
     {
       "time": "8:00",
@@ -114,7 +117,8 @@
       "behavioral": true,
       "delay": true,
       "delayamount": 10,
-      "type": "routine"
+      "type": "routine",
+      "id": 4
     },
     {
       "time": "5:00",
@@ -135,7 +139,8 @@
       "behavioral": false,
       "delay": false,
       "delayamount": 0,
-      "type": "workout"
+      "type": "workout",
+      "id": 5
     }
   ],
   "preference": "loud",
