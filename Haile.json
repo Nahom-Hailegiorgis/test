@@ -31,6 +31,113 @@
       "type": "quiet"
     }
   ],
+  "alarms": [
+    {
+      "time": "6:15",
+      "days": [
+        {
+          "Sunday": false,
+          "Monday": false,
+          "Tuesday": false,
+          "Wednesday": false,
+          "Thursday": false,
+          "Friday": true,
+          "Saturday": true
+        }
+      ],
+      "tod": "AM",
+      "state": true,
+      "description": "soccer with addis & dad & peter",
+      "behavioral": true,
+      "delay": false,
+      "delay-amount": 10,
+      "type": "wake-up"
+    },
+    {
+      "time": "7:30",
+      "days": [
+        {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": false,
+          "Saturday": false
+        }
+      ],
+      "tod": "AM",
+      "state": true,
+      "description": "school prep",
+      "behavioral": false,
+      "delay": true,
+      "delay-amount": 5,
+      "type": "wake-up"
+    },
+    {
+      "time": "3:45",
+      "days": [
+        {
+          "Sunday": false,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": false
+        }
+      ],
+      "tod": "PM",
+      "state": true,
+      "description": "homework reminder",
+      "behavioral": false,
+      "delay": false,
+      "delay-amount": 0,
+      "type": "reminder"
+    },
+    {
+      "time": "8:00",
+      "days": [
+        {
+          "Sunday": true,
+          "Monday": true,
+          "Tuesday": true,
+          "Wednesday": true,
+          "Thursday": true,
+          "Friday": true,
+          "Saturday": true
+        }
+      ],
+      "tod": "PM",
+      "state": true,
+      "description": "wind down",
+      "behavioral": true,
+      "delay": true,
+      "delay-amount": 10,
+      "type": "routine"
+    },
+    {
+      "time": "5:00",
+      "days": [
+        {
+          "Sunday": false,
+          "Monday": false,
+          "Tuesday": true,
+          "Wednesday": false,
+          "Thursday": true,
+          "Friday": false,
+          "Saturday": false
+        }
+      ],
+      "tod": "PM",
+      "state": false,
+      "description": "gym session",
+      "behavioral": false,
+      "delay": false,
+      "delay-amount": 0,
+      "type": "workout"
+    }
+  ],
   "preference": "loud",
   "snooze": "15",
   "behavioral": true
