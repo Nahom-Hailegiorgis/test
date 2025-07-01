@@ -1,27 +1,37 @@
 {
-  "preference": "loud",
   "favorites": [
     {
-      "id": "7",
-      "name": "brazilian"
+      "id": 7,
+      "name": "brazilian",
+      "type": "loud"
     },
     {
-      "id": "5",
-      "name": "lego"
+      "id": 5,
+      "name": "lego",
+      "type": "loud"
     },
     {
-      "id": "10",
-      "name": "nostalgia"
+      "id": 10,
+      "name": "nostalgia",
+      "type": "loud"
     },
     {
-      "id": "3",
-      "name": "classic"
+      "id": 3,
+      "name": "classic",
+      "type": "loud"
     },
     {
-      "id": "6",
-      "name": "digital"
+      "id": 6,
+      "name": "digital",
+      "type": "loud"
+    },
+    {
+      "id": 1,
+      "name": "goodmorning",
+      "type": "quiet"
     }
   ],
+  "preference": "loud",
   "snooze": "15",
   "behavioral": "True"
 }
