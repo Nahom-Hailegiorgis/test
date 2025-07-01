@@ -1,11 +1,26 @@
 {
     "preference": "loud",
     "favorites": {
-        "first": "brazilian",
-        "second": "lego",
-        "third": "nostalgia",
-        "fourth": "classic",
-        "fifth": "digital"
+        "first": {
+            "id": "7",
+            "name": "brazilian"
+        },
+        "second": {
+            "id": "5",
+            "name": "lego"
+        },
+        "third": {
+            "id": "10",
+            "name": "nostalgia"
+        },
+        "fourth": {
+            "id": "3",
+            "name": "classic"
+        },
+        "fifth": {
+            "id": "6",
+            "name": "digital"
+        }
     },
     "snooze": "15",
     "behavioral": "True"
